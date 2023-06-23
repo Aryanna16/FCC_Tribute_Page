@@ -192,6 +192,19 @@ header {
         font-size: 24px;
         margin: 20px 0;
     }    
+
+
+    #quotation {
+        width: 60%;
+        font-size: 24px;
+    }
+    
+    footer {
+        text-align:center;
+        font-size: 24px;
+    }
+    
+
 }
 
 /*For screen size */
@@ -227,5 +240,19 @@ header{
 #trophy_container{
     margin-top: 30px;
 }
+
+
+
+#quotation {
+    font-size: 18px;
+    margin: 10px auto;
+}
+
+footer {
+ 
+    font-size: 18px;
+}
+
+
 
 }
